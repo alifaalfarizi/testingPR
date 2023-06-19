@@ -99,9 +99,6 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button :',
             ),
-            const Text(
-              'timess',
-            ),
             Text(
               'THIS $_counter',
               style: Theme.of(context).textTheme.headlineMedium,
